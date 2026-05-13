@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\masar-frontend",
+    "\\masar-frontend\\assets",
+    "\\masar-frontend\\src",
+    "\\masar-frontend\\src\\components",
+    "\\masar-frontend\\src\\models",
+    "\\masar-frontend\\src\\navigation",
+    "\\masar-frontend\\src\\screens",
+    "\\masar-frontend\\src\\screens\\Auth",
+    "\\masar-frontend\\src\\screens\\Main"
+  ],
+  "SelectedNode": "\\masar-frontend",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\awklo\\source\\repos\\Masar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:masar-frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\models\\UserModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:masar-frontend\\src\\models\\UserModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\models\\TrackModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:masar-frontend\\src\\models\\TrackModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\models\\AuthModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:masar-frontend\\src\\models\\AuthModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\models\\ChallengeModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:masar-frontend\\src\\models\\ChallengeModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\screens\\Main\\ChallengesScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:masar-frontend\\src\\screens\\Main\\ChallengesScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\screens\\Main\\HomeScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:masar-frontend\\src\\screens\\Main\\HomeScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\screens\\Auth\\LoginScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:masar-frontend\\src\\screens\\Auth\\LoginScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\screens\\Auth\\RegisterScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:masar-frontend\\src\\screens\\Auth\\RegisterScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\screens\\Main\\AddTrackScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:masar-frontend\\src\\screens\\Main\\AddTrackScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\components\\OpenStreetMapView.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:masar-frontend\\src\\components\\OpenStreetMapView.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\screens\\Main\\ProfileScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:masar-frontend\\src\\screens\\Main\\ProfileScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\controllers\\AuthController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:masar-frontend\\src\\controllers\\AuthController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\package.json",
+              "RelativeDocumentMoniker": "masar-frontend\\package.json",
+              "ToolTip": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\package.json",
+              "RelativeToolTip": "masar-frontend\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T19:02:42.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChallengeModel.js",
+              "DocumentMoniker": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\models\\ChallengeModel.js",
+              "RelativeDocumentMoniker": "masar-frontend\\src\\models\\ChallengeModel.js",
+              "ToolTip": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\models\\ChallengeModel.js",
+              "RelativeToolTip": "masar-frontend\\src\\models\\ChallengeModel.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-13T14:27:02.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeScreen.js",
+              "DocumentMoniker": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\screens\\Main\\HomeScreen.js",
+              "RelativeDocumentMoniker": "masar-frontend\\src\\screens\\Main\\HomeScreen.js",
+              "ToolTip": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\screens\\Main\\HomeScreen.js",
+              "RelativeToolTip": "masar-frontend\\src\\screens\\Main\\HomeScreen.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-13T00:08:43.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterScreen.js",
+              "DocumentMoniker": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\screens\\Auth\\RegisterScreen.js",
+              "RelativeDocumentMoniker": "masar-frontend\\src\\screens\\Auth\\RegisterScreen.js",
+              "ToolTip": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\screens\\Auth\\RegisterScreen.js",
+              "RelativeToolTip": "masar-frontend\\src\\screens\\Auth\\RegisterScreen.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-12T23:54:51.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChallengesScreen.js",
+              "DocumentMoniker": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\screens\\Main\\ChallengesScreen.js",
+              "RelativeDocumentMoniker": "masar-frontend\\src\\screens\\Main\\ChallengesScreen.js",
+              "ToolTip": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\screens\\Main\\ChallengesScreen.js",
+              "RelativeToolTip": "masar-frontend\\src\\screens\\Main\\ChallengesScreen.js",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwC8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-12T23:52:18.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProfileScreen.js",
+              "DocumentMoniker": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\screens\\Main\\ProfileScreen.js",
+              "RelativeDocumentMoniker": "masar-frontend\\src\\screens\\Main\\ProfileScreen.js",
+              "ToolTip": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\screens\\Main\\ProfileScreen.js",
+              "RelativeToolTip": "masar-frontend\\src\\screens\\Main\\ProfileScreen.js",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAQwH0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-12T23:17:06.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddTrackScreen.js",
+              "DocumentMoniker": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\screens\\Main\\AddTrackScreen.js",
+              "RelativeDocumentMoniker": "masar-frontend\\src\\screens\\Main\\AddTrackScreen.js",
+              "ToolTip": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\screens\\Main\\AddTrackScreen.js",
+              "RelativeToolTip": "masar-frontend\\src\\screens\\Main\\AddTrackScreen.js",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-30T09:54:10.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrackModel.js",
+              "DocumentMoniker": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\models\\TrackModel.js",
+              "RelativeDocumentMoniker": "masar-frontend\\src\\models\\TrackModel.js",
+              "ToolTip": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\models\\TrackModel.js",
+              "RelativeToolTip": "masar-frontend\\src\\models\\TrackModel.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-30T09:47:15.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserModel.js",
+              "DocumentMoniker": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\models\\UserModel.js",
+              "RelativeDocumentMoniker": "masar-frontend\\src\\models\\UserModel.js",
+              "ToolTip": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\models\\UserModel.js",
+              "RelativeToolTip": "masar-frontend\\src\\models\\UserModel.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-30T09:46:28.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthModel.js",
+              "DocumentMoniker": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\models\\AuthModel.js",
+              "RelativeDocumentMoniker": "masar-frontend\\src\\models\\AuthModel.js",
+              "ToolTip": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\models\\AuthModel.js",
+              "RelativeToolTip": "masar-frontend\\src\\models\\AuthModel.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-30T09:46:24.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OpenStreetMapView.js",
+              "DocumentMoniker": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\components\\OpenStreetMapView.js",
+              "RelativeDocumentMoniker": "masar-frontend\\src\\components\\OpenStreetMapView.js",
+              "ToolTip": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\components\\OpenStreetMapView.js",
+              "RelativeToolTip": "masar-frontend\\src\\components\\OpenStreetMapView.js",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwB8AAABhAwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-30T09:45:52.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginScreen.js",
+              "DocumentMoniker": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\screens\\Auth\\LoginScreen.js",
+              "RelativeDocumentMoniker": "masar-frontend\\src\\screens\\Auth\\LoginScreen.js",
+              "ToolTip": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\screens\\Auth\\LoginScreen.js",
+              "RelativeToolTip": "masar-frontend\\src\\screens\\Auth\\LoginScreen.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-30T09:45:13.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.js",
+              "DocumentMoniker": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\controllers\\AuthController.js",
+              "RelativeDocumentMoniker": "masar-frontend\\src\\controllers\\AuthController.js",
+              "ToolTip": "C:\\Users\\awklo\\source\\repos\\Masar\\masar-frontend\\src\\controllers\\AuthController.js",
+              "RelativeToolTip": "masar-frontend\\src\\controllers\\AuthController.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-30T09:31:32.721Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
