@@ -25,11 +25,10 @@ Please ensure the following tools are installed on your machine before proceedin
 ## **📱 3\. Frontend Setup & Critical IP Configuration**
 
 1. Open your terminal or command prompt and navigate to the frontend folder:  
-   cd Frontend/masar-frontend  
-1.   
+   cd Frontend/masar-frontend    
 2. Install all required dependencies:  
    npm install  
-2.   
+    
 3. **CRITICAL STEP FOR EMULATORS:** You must configure the app to talk to your local machine's database. Android Emulators cannot use `localhost`; they use a specific alias IP (`10.0.2.2`) to access the host machine's local server.  
    You must open your code editor and change the IP address to `10.0.2.2` inside these **3 specific frontend files**:  
    * **File 1 (`src/api/config.js`)**: Change `baseURL` to `'http://10.0.2.2/masar-backend'`  
@@ -42,7 +41,5 @@ Please ensure the following tools are installed on your machine before proceedin
 2. Return to your terminal (ensure you are still inside `Frontend/masar-frontend`).  
 3. Start the Expo server by running:  
    npx expo start  
-3.   
 4. Once the server starts and the QR code appears in the terminal, press the **`a`** key on your keyboard.  
 5. Expo will automatically install the required Expo Go client on the running emulator, bundle the JavaScript, and launch Masar.  
-4. 
