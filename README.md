@@ -28,7 +28,7 @@ Before setting up, you need to get the source code onto your local machine.
 4. Rename the folder inside htdocs to masar-backend (Path should now be C:\\xampp\\htdocs\\masar-backend).  
 5. Open a web browser and navigate to http://localhost/phpmyadmin.  
 6. Click **New** on the left sidebar to create a new database. Name the database exactly **masar\_db** and click Create.  
-7. Select masar\_db from the sidebar, click the **Import** tab at the top, select the .sql database file included in this repository, and click **Import** at the bottom.
+7. Select masar\_db from the sidebar, click the **Import** tab at the top, select the 'masar_db.sql' database file included in this repository, and click **Import** at the bottom.
 
 ## **📱 4\. Frontend Setup & Critical IP Configuration**
 
